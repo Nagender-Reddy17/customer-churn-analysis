@@ -1,4 +1,4 @@
-# Customer Churn Analysis Project
+<img width="1364" height="794" alt="image" src="https://github.com/user-attachments/assets/ee19bea0-44cd-4b33-a511-7e614629272f" /># Customer Churn Analysis Project
 # 📊 Customer Churn Analysis
 
 ## 🎯 Objective
@@ -121,8 +121,10 @@ This project demonstrates:
 ## 🔗 Links
 
 * GitHub Repository: 
+
 * Streamlit App: 
-* Power BI Dashboard: 
+* Power BI Dashboard: <img width="1364" height="794" alt="image" src="https://github.com/user-attachments/assets/f8e5a7a1-87e6-4052-a968-a9b6b39b41b8" />
+
 
 ---
 
