@@ -120,9 +120,8 @@ This project demonstrates:
 
 ## 🔗 Links
 
-* GitHub Repository: 
 
-* Streamlit App: 
+* Streamlit App: https://customer-churn-analysis-thqc7kd344cs773t65qce3.streamlit.app/
 * Power BI Dashboard: <img width="1364" height="794" alt="image" src="https://github.com/user-attachments/assets/f8e5a7a1-87e6-4052-a968-a9b6b39b41b8" />
 
 
